@@ -27,7 +27,6 @@ const TechIcon = ({ tech, theme }) => {
   // Different glow colors based on theme
   const glowColors = {
     neural: "#00ffff",    // Cyan
-    terminal: "#00ff00",  // Green
     vortex: "#a855f7",    // Purple
     ai: "#3b82f6"         // Blue
   };
@@ -47,13 +46,9 @@ const TechIcon = ({ tech, theme }) => {
     "NodeJS": "nodejs",
     "MongoDB": "mongodb",
     "Python": "python",
-    "SQL": "sql",
     "Github":"github",
     "Git":"git",
-    "VsCode":"vscode",
-    "Bootstrap":"bootstrap",
-    "Tailwind":"tailwind",
-    "Chatgpt":"chatgpt"
+    "VsCode":"vscode"
     
   };
   

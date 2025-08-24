@@ -47,7 +47,7 @@ const Header = () => {
       {/* Logo - updated glow to amber */}
       <div className="relative">
         <img 
-          src="/portfolio-app/VD.png" 
+          src="/portfolio-app/public/jatin logo.png" 
           alt="Logo header" 
           className="h-12 cursor-pointer hover:scale-105 transition-transform duration-300"
         />

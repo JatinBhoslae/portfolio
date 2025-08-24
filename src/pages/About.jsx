@@ -191,7 +191,7 @@ const About = () => {
                       className="w-10 h-10 object-contain"
                       onError={(e) => {
                         e.target.onerror = null;
-                        e.target.src = "/portfolio-app/fallback-icon.png";
+                        e.target.src = "/portfolio-app/public/college.png";
                       }}
                     />
                   </a>
