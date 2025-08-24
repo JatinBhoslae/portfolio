@@ -46,6 +46,7 @@ const TechIcon = ({ tech, theme }) => {
     "NodeJS": "nodejs",
     "MongoDB": "mongodb",
     "Python": "python",
+
     "Github":"github",
     "Git":"git",
     "VsCode":"vscode"

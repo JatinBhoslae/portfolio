@@ -10,11 +10,19 @@ const projects = [
   {
     name: "CSI-Website", 
     desc: "A website that showing work,head,info about CSI-CATT DMCE", 
-    link: "https://jatinbhoslae.github.io/csi-website/", 
+    link: "", //for live demo
     code: "https://github.com/JatinBhoslae/csi-website.git", 
     techstackused: "HTML5, CSS3, JavaScript,Bootstrap",
     techstackicons: ["html5", "css3", "js", "bootstrap"]
-  }
+  },
+  {
+    name: "My-Portfolio", 
+    desc: "A website that showing My self, My skills, My projects and Contact details", 
+    link: "", //for live demo
+    code: "https://github.com/JatinBhoslae/portfolio.git", 
+    techstackused: "HTML5, CSS3, JavaScript, React, Bootstrap",
+    techstackicons: ["html5", "css3", "js", "React", "bootstrap"]
+  } 
 ];
 
 // Add CSS animation for shine effect to your main stylesheet or inline styles
